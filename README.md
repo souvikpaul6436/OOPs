@@ -3,7 +3,11 @@
 
 Notes of OOPS (in c++)
 
-GitHub Repo : https://github.com/riti2409/OOPS_NOTES
+It covers all the important topics like;
+OOPs, Class, Object, Encapsulation, polymorphism,
+Abstraction, Inheritance, Manipulator,
+constructors, Destructors, Inline & Virtual functions
+Function and operator overloading , Abstract class and other most important questions of OOPs.
 
 OOPS = https://www.youtube.com/watch?v=bSrm9RXwBaI&ab_channel=ApnaCollege (JAVA)
 https://www.youtube.com/watch?v=wN0x9eZLix4&ab_channel=freeCodeCamp.org (C++)
