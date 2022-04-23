@@ -16,4 +16,6 @@ PDF(of notes): https://drive.google.com/file/d/1NXtNY5zQXIUMLcBan-_MpuGN_gnZKTMh
 
 OOPS Interview Questions: https://www.interviewbit.com/oops-interview-questions/
 
+OOPS Interview Questions:https://drive.google.com/file/d/1112an3qOB8SEd7hLbDze3eRa3f6AnE32/view
+
 Would love if you could add more resources :)
