@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=wN0x9eZLix4&ab_channel=freeCodeCamp.org (C++)
 
 PDF(of notes): https://drive.google.com/file/d/1NXtNY5zQXIUMLcBan-_MpuGN_gnZKTMh/view?usp=sharing
 
-OOPS Interview Questions: https://www.interviewbit.com/oops-interview-questions/
+OOPS Interviewbit Questions: https://www.interviewbit.com/oops-interview-questions/
 
 OOPS Interview Questions:https://drive.google.com/file/d/1112an3qOB8SEd7hLbDze3eRa3f6AnE32/view
 
